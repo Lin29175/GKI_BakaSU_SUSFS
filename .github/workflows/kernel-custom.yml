@@ -50,7 +50,7 @@ on:
         description: "修订版本 (如 r11, 仅 5.10 需要)"
         required: false
         type: string
-        default: "r11"
+        default: ""
 
       # ==================== KernelSU 配置 ====================
       # KernelSU 变体固定为 BakaSU
